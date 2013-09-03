@@ -1,5 +1,5 @@
-screenfony_demo:
-    resource: "@ScreenfonyDemoBundle/Controller/"
+frontend_frontend:
+    resource: "@FrontendFrontendBundle/Controller/"
     type:     annotation
     prefix:   /
 
